@@ -6,7 +6,9 @@ var num4 = 0;
 var num5 = -1;
 // Introducing new variable, assigning the first number to it
 var max = num1;
-
+/* comparing with all numbers next and updating the max in case a number 
+is more than max.
+*/
 if (num2 > max)
 {
     max = num2;
